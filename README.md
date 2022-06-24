@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumrender&label=Profile%20views&color=0e75b6&style=flat" alt="sumrender" /> </p>
 
-- 🌱 I’m currently learning **Blockchain and Smart Contracts**
-
 - 👨‍💻 All of my projects are available at [https://sumrender.github.io/](https://sumrender.github.io/)
 
 - 💬 Ask me about **fantasy webnovels**
