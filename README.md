@@ -9,7 +9,7 @@
 - 💬 Ask me about **fantasy webnovels**
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hZaodX6W6nMudpcgmu1GvFeHvJLlt2fi/view?usp=sharing](https://drive.google.com/file/d/1hZaodX6W6nMudpcgmu1GvFeHvJLlt2fi/view?usp=sharing)
+- 📄 Know about my experiences [Click here for RESUME](https://drive.google.com/file/d/1oayGlCMud9brpXrCLAGsTQ59W04glLzd/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
