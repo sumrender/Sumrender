@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sumrender</h1>
-<h3 align="center">A developer? from India</h3>
+<h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumrender&label=Profile%20views&color=0e75b6&style=flat" alt="sumrender" /> </p>
-- Currently exploring Web3
+- Currently exploring LLMs
 
 - 👨‍💻 All of my projects are available [here](https://sumrender.vercel.app/)
 
 - 💬 Ask me about **fantasy webnovels**
 
 
-- 📄 Know about my experiences [Click here for RESUME](https://drive.google.com/file/d/1oayGlCMud9brpXrCLAGsTQ59W04glLzd/view)
+- 📄 Know about my experiences [Click here for RESUME](https://drive.google.com/file/d/1k_oI58-LIqDdqY0TB4QHBTc9oDA-lj5m/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
